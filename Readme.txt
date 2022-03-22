@@ -7,7 +7,7 @@ To use this Program we will go to codi.link, this allows us to implement both HT
 
 =>Link : https://codi.link
 
-Once there we will copypaste the 3 zip files.
+Once there we will copypaste the 3 files.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Para utilizar este programa iremos a codi.link , esta nos permite implementar ta
 
 =>Link : https://codi.link
 
-Una vez allí haremos copypaste de los 3 archivos del zip .
+Una vez allí haremos copypaste de los 3 archivos .
 
 
 
